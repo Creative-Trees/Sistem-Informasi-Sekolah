@@ -63,5 +63,5 @@ SistemInformasiSekolah/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sistem-informasi-sekolah.git
+git clone https://github.com/Creative-Trees/Sistem-Informasi-Sekolah
 ```
